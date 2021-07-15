@@ -1,0 +1,22 @@
+{
+  "name": "telephonewords",
+  "version": "1.0.0",
+  "description": "Write tests via jest for a telephone words toy problem",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodycaymond/telephoneWords.git"
+  },
+  "author": "Cody Raymond, Evan Fillman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodycaymond/telephoneWords/issues"
+  },
+  "homepage": "https://github.com/rodycaymond/telephoneWords#readme",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}
